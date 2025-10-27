@@ -39,7 +39,7 @@ The analysis relies on two publicly available, high-quality agricultural image d
 * **Convolutional Neural Networks (CNN)** 🧠
 
 📂 Repository Structure
-
+```
 .
 ├── data/                  # Raw and processed hyperspectral image tiles
 ├── notebooks/             # Primary executable scripts
@@ -51,7 +51,9 @@ The analysis relies on two publicly available, high-quality agricultural image d
 ├── src/                   # Utility Python scripts (e.g., data loading, processing)
 ├── README.md              # Project overview and guidelines (You are here!)
 └── requirements.txt       # Python dependencies (TensorFlow, Scikit-learn, etc.)
+```
 
+---
 ## 📖 How to Run/View
 
 1.  **Clone Repository**
