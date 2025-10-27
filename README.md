@@ -41,13 +41,12 @@ The analysis relies on two publicly available, high-quality agricultural image d
 📂 Repository Structure
 ```
 .
-├── data/                  # Raw and processed hyperspectral image tiles
+├── DataExplorationResults/ 
 ├── notebooks/             # Primary executable scripts
 │   └── Agriculture_Classification.ipynb # The main Google Colab notebook
 ├── models/                # Saved trained CNN and RF models
 ├── documentation/         # Project reports
 │   └── Agriculture_Classification.pdf # The comprehensive project report
-├── visuals/               # Generated classification maps and performance charts
 ├── src/                   # Utility Python scripts (e.g., data loading, processing)
 ├── README.md              # Project overview and guidelines (You are here!)
 └── requirements.txt       # Python dependencies (TensorFlow, Scikit-learn, etc.)
