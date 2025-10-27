@@ -1,0 +1,17 @@
+EXPERIMENT SUMMARY (COMMON CLASSES)
+================================================================================
+
+Dataset Configuration:
+  Common classes: 9
+  Class names: grape black rot, potato early blight, potato late blight, squash powdery mildew, tomato bacterial spot, tomato early blight, tomato late blight, tomato mold, tomato septoria spot
+
+Training Configuration:
+  Stage 1 epochs: 15
+  Stage 2 epochs: 25
+
+Results:
+  Accuracy: 46.34%
+  Precision: 0.5838
+  Recall: 0.4407
+  F1-Score: 0.4622
+  ECE: 0.2306
